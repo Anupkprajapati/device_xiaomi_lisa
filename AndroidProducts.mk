@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_lisa.mk
+    $(LOCAL_DIR)/evolution_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_lisa-user \
-    evolution_lisa-userdebug \
-    evolution_lisa-eng
+    evolution_mojito-user \
+    evolution_mojito-userdebug \
+    evolution_mojito-eng
